@@ -1,7 +1,7 @@
 # MeroList
 
 A python To-do list Web App. 
-> Using Django and Bootstrap
+> Django and Bootstrap
 
 
 ## Features
