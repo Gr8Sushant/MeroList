@@ -8,6 +8,6 @@ A python To-do list Web App.
 * Auto Uppercase
 * Add items to list
 * Remove items from list
-* Can be modified in admin panel 
+* To do items can be modified in admin panel 
 
 ![plot](./ss/todo-ss.png)
